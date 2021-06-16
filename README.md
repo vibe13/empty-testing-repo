@@ -1,2 +1,2 @@
 # empty-testing-repo
-Repository for testing pre-build-sync (TC29)
+Repository for testing pre-build-sync (TC27)
